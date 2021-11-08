@@ -1,0 +1,2 @@
+#perl Primer_Prediction_From_GenBank_v1.pl -genbank ../Test/Model_SVEN.gb -vector ../Test/Level2_Vector_backbone.gb -width 5000 -overlap 100 -arm 20 -left 40 -right 40 -min_primer 18 -max_primer 30 -opt_primer 20 -diff_tm 5 -outdir .
+./Primer_Prediction_From_GenBank_v1.exe -genbank ../Test/Model_SVEN.gb -vector ../Test/Level2_Vector_backbone.gb -width 5000 -overlap 100 -arm 20 -left 40 -right 40 -min_primer 18 -max_primer 30 -opt_primer 20 -diff_tm 5 -outdir ./
