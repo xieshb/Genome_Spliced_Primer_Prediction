@@ -1,4 +1,5 @@
 # Genome_Spliced_Primer_Prediction
+
 This Project is used for generating a PCR primers library from a genome which in genbank format and linked the reconsturcted genome to a Vector.
 
 input:
@@ -84,3 +85,28 @@ Test Data:
         
         Level2_Vector_backbone.gb
 
+Primer_Prediction_From_GenBank_version_20211105
+
+├── GUI
+
+│   ├── Primer_Prediction_From_GenBank_GUI.v1.exe
+
+│   ├── Primer_Prediction_From_GenBank_GUI.v1.pl
+
+│   └── primer3_core.exe
+
+├── Linux
+
+│   ├── Primer_Prediction_From_GenBank_v1.exe
+
+│   ├── Primer_Prediction_From_GenBank_v1.pl
+
+│   ├── primer3_core.exe
+
+│   └── run_test.sh
+
+└── Test
+
+|   ├── Level2_Vector_backbone.gb
+
+|   └── Model_SVEN.gb
