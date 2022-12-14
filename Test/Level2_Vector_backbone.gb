@@ -1,0 +1,78 @@
+LOCUS       Exported                1911 bp ds-DNA    linear   UNA 03-9月-2021
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    Level 2 Vector backbone
+SOURCE      natural DNA sequence
+  ORGANISM  unspecified
+REFERENCE   1  (bases 1 to 1911)
+  AUTHORS   ytj
+  TITLE     Direct Submission
+  JOURNAL   Exported 2021年9月3日 from SnapGene 2.3.2
+            http://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..1911
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /label="source:synthetic DNA construct"
+                     /note="source:synthetic DNA construct"
+     CDS             124..915
+                     /codon_start=1
+                     /gene="aadA"
+                     /locus_tag="aadA"
+                     /product="spectinomycin-streptomycin adenyltransferase 
+                     gene"
+                     /label="aadA"
+                     /note="aadA"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+     CDS             1090..1678
+                     /codon_start=1
+                     /gene="pMB1"
+                     /locus_tag="pMB1"
+                     /label="pMB1"
+                     /note="pMB1"
+                     /translation="LRSFFSARNLLLANKKTTATSGGLFAGSRATNSFSEGNWLQQSAD
+                     TKYCPSSVAVVRPPLQELCSTAYIPRSANPVTSGCCQWR*VVSYRVGLKTIVTG*GAAV
+                     GLNGGFVHTAQLGANDLHRTEIPTA*AMRKRHASRREKGGQVSGKRQGRNRRAHEGASR
+                     GKRLVSL*SCRVSPPLT*ASIFVMLVRGAEPME"
+     misc_feature    1481..1502
+                     /locus_tag="misc_feature"
+                     /label="misc_feature"
+ORIGIN
+        1 tcgagttcat gtgcagctcc atcagcaaaa ggggatgata agtttatcac caccgactat
+       61 ttgcaacagt gccgttgatc gtgctatgat cgactgatgt catcagcggt ggagtgcaat
+      121 gtcatgaggg aagcggtgat cgccgaagta tcgactcaac tatcagaggt agttggcgtc
+      181 atcgagcgcc atctcgaacc gacgttgctg gccgtacatt tgtacggctc cgcagtggat
+      241 ggcggcctga agccacacag tgatattgat ttgctggtta cggtgaccgt aaggcttgat
+      301 gaaacaacgc ggcgagcttt gatcaacgac cttttggaaa cttcggcttc ccctggagag
+      361 agcgagattc tccgcgctgt agaagtcacc attgttgtgc acgacgacat cattccgtgg
+      421 cgttatccag ctaagcgcga actgcaattt ggagaatggc agcgcaatga cattcttgca
+      481 ggtatcttcg agccagccac gatcgacatt gatctggcta tcttgctgac aaaagcaaga
+      541 gaacatagcg ttgccttggt aggtccagcg gcggaggaac tctttgatcc ggttcctgaa
+      601 caggatctat ttgaggcgct aaatgaaacc ttaacgctat ggaactcgcc gcccgactgg
+      661 gctggcgatg agcgaaatgt agtgcttacg ttgtcccgca tttggtacag cgcagtaacc
+      721 ggcaaaatcg cgccgaagga tgtcgctgcc gactgggcaa tggagcgcct gccggcccag
+      781 tatcagcccg tcatacttga agctagacag gcttatcttg gacaagaaga agatcgcttg
+      841 gcctcgcgcg cagatcagtt ggaagaattt gtccactacg tgaaaggcga gatcaccaag
+      901 gtagtcggca aataagatgc cgctcgccag tcgattggct gagctcatga agttcctatt
+      961 ccgaagttcc gcgaacgcgt aaaggatcta ggtgaagatc ctttttgata atctcatgac
+     1021 caaaatccct taacgtgagt tttcgttcca ctgagcgtca gaccccgtag aaaagatcaa
+     1081 aggatcttct tgagatcctt tttttctgcg cgtaatctgc tgcttgcaaa caaaaaaacc
+     1141 accgctacca gcggtggttt gtttgccgga tcaagagcta ccaactcttt ttccgaaggt
+     1201 aactggcttc agcagagcgc agataccaaa tactgtcctt ctagtgtagc cgtagttagg
+     1261 ccaccacttc aagaactctg tagcaccgcc tacatacctc gctctgctaa tcctgttacc
+     1321 agtggctgct gccagtggcg ataagtcgtg tcttaccggg ttggactcaa gacgatagtt
+     1381 accggataag gcgcagcggt cgggctgaac ggggggttcg tgcacacagc ccagcttgga
+     1441 gcgaacgacc tacaccgaac tgagatacct acagcgtgag ctatgagaaa gcgccacgct
+     1501 tcccgaaggg agaaaggcgg acaggtatcc ggtaagcggc agggtcggaa caggagagcg
+     1561 cacgagggag cttccagggg gaaacgcctg gtatctttat agtcctgtcg ggtttcgcca
+     1621 cctctgactt gagcgtcgat ttttgtgatg ctcgtcaggg gggcggagcc tatggaaaaa
+     1681 cgccagcaac gcggcctttt tacggttcct ggccttttgc tggccttttg ctcacatgtt
+     1741 ctttcctgcg ttatcccctg attctgtgga taaccgtatt accgcctttg agtgagctga
+     1801 taccgctcgc cgcagccgaa cgaccgagcg cagcgagtca gtgagcgagg aagcggaaga
+     1861 gcgcctgatg cggtattttc tccttacgca tctgtgcggt atttcacacc g
+//
